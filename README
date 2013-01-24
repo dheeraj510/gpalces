@@ -7,3 +7,25 @@ Installation steps
 3. rake db:migrate
 4. rails server
 
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     - rails 3.2.11
+	   - Added Twitter Bootstrap layout
+	  - Added images to the places results
+	  - Improved google places detection of address
+	  - Update all gems, including to latest Rails 3.2.8
+	   - Added pagination with kaminari
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+SAI KIRAN SHARMA M -- RUBY ON RAILS DEVELOPER 
+-------------------------------
+saikiran.mothe@gmail.com
++91-9560191447
+--------------------------------
+
