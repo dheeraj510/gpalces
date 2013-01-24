@@ -1,9 +1,34 @@
-Rails 3.2 app with the google places api for address autocomplete. 
 
-Installation steps
 
-1. Create config/database.yml (see config/database.yml.sample)
-2. bundler install
-3. rake db:migrate
-4. rails server
+Rails 3.2 app with the Google places API for Address Auto Complete. 
+
+Installation steps.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+1. Check config/database.yml 
+2. rake db:create
+3. bundler install
+4. rake db:migrate
+5. rails server
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+     - rails 3.2.11
+	   - Added Twitter Bootstrap layout
+	  - Added images to the places results
+	  - Improved google places detection of address
+	  - Update all gems, including to latest Rails 3.2.8
+	   - Added pagination with kaminari
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+SAI KIRAN SHARMA M -- RUBY ON RAILS DEVELOPER 
+-------------------------------
+saikiran.mothe@gmail.com
++91-9560191447
+--------------------------------
 
